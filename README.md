@@ -1,6 +1,6 @@
 # OSMP Lista Projektów nad którymi pracuje lub będę pracował w najbliższym czasie. Kolejność przypadkowa.
 
-W odpowiedzi na zapytania o moją listę nad jaką pracuję, to przygotowałem szkic dla obecnych oraz przyszłych projektów a także narzędzi.
+W odpowiedzi na zapytania o moją listę nad jaką pracuję to przygotowałem szkic dla obecnych oraz przyszłych projektów a także narzędzi.
 
 ## Projekty w miarę skrystalizowane i z jakimiś założeniami.
 
