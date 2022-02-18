@@ -10,9 +10,9 @@ W odpowiedzi na zapytania o moją listę nad jaką pracuję to przygotowałem sz
 4. Mapowanie objektów pod kątem osób niepełnosprawnych (W trakcie przygotowania, z uwzględnieniem niewidomych)
 5. Porządkowanie i aktualizacja adresów na terenie Polski, weryfikacja PRG (Planowany)
 6. Program dodawania POI (W trakcie, ale wyłącznie sieci handlowe)
-      [ ] Zgłosić się o możliwośc korzystania a API Regon
-      [ ] Lista sieci handlowych w Polsce
-      [ ] Lista POI jakie chcemy nanosić w tym urzędowe / społeczne 
+      - [ ] Zgłosić się o możliwośc korzystania a API Regon
+      - [ ] Lista sieci handlowych w Polsce
+      - [ ] Lista POI jakie chcemy nanosić w tym urzędowe / społeczne 
 8. OSM for Bussines (Planowany)
 9. Human Centered Map (Planowany)
 10. Mapowanie miejsc biwakowych (Planowany)
