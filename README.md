@@ -28,9 +28,12 @@ W odpowiedzi na zapytania o moją listę nad jaką pracuję to przygotowałem sz
 8. Mapowanie miejsc biwakowych (Planowany)
 9. Oprogramowanie do importu i włączania danych zewnętrznych do OSM oraz aktualizacji (w trakcie)
 10. Aktualizacja strony [OSMP na wiki](https://wiki.openstreetmap.org/wiki/Stowarzyszenie_OpenStreetMap_Polska)
-11. Mapowanie dla osób niepełnosprawnych (Tworzenie załorzeń projektu).
+11. (MAD - Making a difference) Mapowanie dla osób niepełnosprawnych (Podstawowe załorzenia przyjęte).
       - Wprowadzanie danych ważnych dla osób niewidzących.
       - Oznaczanie barier komunikacyjnych
+      - Tworzenie rozwiązań technicznych ułatwoające korzystanie z mapy osobą niewidomym
+      - Przygotowanie standardów Tagów
+      - Porządek na wiki - ujednolicenie wielu żródeł
 
 
 ## Luźna lista pomysłów
