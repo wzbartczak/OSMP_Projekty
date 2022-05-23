@@ -46,3 +46,20 @@ W odpowiedzi na zapytania o moją listę nad jaką pracuję to przygotowałem sz
 - wiki - temat rzeka
 - ....
 
+## Zobowiązania nalożone przez członków OSMP na zarząd na walnym Źywiec 2022
+
+1. Zorganizowanie ogólnopolskiej konferencji OSMP
+2. Stworzenie i rozesłanie ogólnopolskiej ankiety dotyczącej obszarów zaangazowania
+3. Wsparcie Syntexa w udziale w DWG
+4. Analiza mozliwości podwyzszenia składki członkowskiej
+5. Zaciśnienie współpracy z uczelniami wyzszymi
+6. zwiekszenie rozpoznawalności OSMP i projektu OSM poprzez udział w wydarzeniach branżowych
+
+## Wolne wnioski
+
+1. Powołanie Community Menagera do spraw wspólpracy z społecznością
+2. Sformalizowaniu CRM do pracy w stowarzyszeniu
+3. Wsparcie członków w edycji granic administracyjnych w PL
+4. Przygotowanie szkoleń z podstaw Qgis
+5. Lepsza komunikacja zarządu z członkami
+6. Przygotowanie platformy szkoleniowej dla członków stowarzyszenia
