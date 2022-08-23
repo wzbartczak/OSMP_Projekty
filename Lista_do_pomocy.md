@@ -6,18 +6,8 @@ Stowarzyszenie OpenStreetMap Polska (OSMP) poszukuje osoby chcące z nami wspó�
 ## OSMP w mediach społecznościowych
 Poszukujemy osób, które mają ochotę wspomóc w aktualizowaniu naszych witryn i stron oraz publikowaniu informacji, jednym słowem osobę lub osoby z zacięciem dziennikarskim. Konieczna podstawowa znajomość posługowania się FB oraz wordpresem. Inne media mile widziane.
 
-## Mapowanie miejsc biwakowych
-Poszukujemy osobę/osoby ze znajomością GiS oraz podstawami JOSM, która pomoże przygotować dane dla edytorów.
-
-## Konferencja OSM w Łodzi 2023
-Poszukujemy osoby chętne do pomocy przy organizacji tego wydarzenia. Na pierwszy ogień potrzeba kogoś kto ma trochę czasu i pomorze przygotować i zebrać niezbędne informacje oraz udzieli pomocy w ogarnianiu poczty, angielski mile widziany. Lista potzreb w tym zakresie będzie aktualizowana na biezrąco.
-
 ## Przygotowanie systemu CRM do pracy w stowarzyszeniu
 Od pomysłu do wykonania, oczywiście słyżymy pomocą, ale temat jak najbardziej ambitny i samodzielny.
-
-## Udział w projekcie OpenAedMap.org
-Potrzebujemy osoby z umiejętnościami programistycznymi, które pomogą nam storzyć Front dla projektu. Technologia na jakiej będzie oparty portal nie jest obecnie zatwierdzona. Jesteśmy otwarci na propozycje.
-
 
 ## OSM dla edukacji
 Ze względu na naciski społeczności w zakresie działań promocyjnych chcemy przygotować program współpracy z szkołami i uczelniami w większym niż dotychczas zakresie. Dlatego poszukujemy:
