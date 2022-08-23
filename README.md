@@ -58,6 +58,10 @@ Jest to zobowiązanie nałożone przez czlonków stowarzyszenia na zarząd na os
 > Potrzebujemy chętnych do pomocy w oragnizacji tego wydarzenia. Warunkiem koniecznym jest mieszkanie na terenie Łodzi i dysponowanie wolnym czasem ze szczególnym uwzględnieniem termiów w czerwcu 2023 r.
 Nieustający program tłumaczenia. Brawa należą się Konradowi, dzięki któremu możememy czytać po polsku nasz osmowy newsletter. Ciągle poszukujemy chętnych, którzy wspomogą jego pracę i pomogą w tłumaczeniu. Znasz angielski? Pomóż tłumaczyć! I już.
 
+### Zapewnienie lepszego zaplecza technicznego dla osmmapa.pl
+Staramy się pozyskać partnera, który zapewni lepszy serwer umożliwiający działanie mapy i podkładu w dłuzszym czasie.
+
+
 ## Projekty na wczesnym etapie planownia
 
 ### Mapowanie miejsc biwakowych
