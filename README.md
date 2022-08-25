@@ -82,6 +82,10 @@ Przy pracy nad projektem openaedmap zrodził się pomysł utworzenia autorskiego
 
 ## Projekty planowane, bez aktywnych działań.
 
+### Mapa 3,5T plus (Pomysł Aim311 oraz .charles)
+Wersja OSM dla kierowców ciężarówek wraz z narzędziami pozwalającymi edytowani niezbędnych atrybutów w postaci ograniczenia dróg i obszarów najlepiej w formie znaków (ograniczenie wysokości, szerokości, długości, wagi, przewożonego towaru, ograniczenia czasowego, ograniczenia środowiskowego związanego z emisją, ograniczenia wjazdu do różnych itd. Dedykowana mapa pomogłaby wyłapywać błędy, sprawniej nanosić poprawki przez poczatkujących użytkowników oraz co pewnie istotne mogłaby zwiększyć grono edytorów  mapy.
+
+
 ### Program dodawania i aktualizownia POI - OSM for Bussines
 
 Wykorzystanie technologii opracowanych w ramach projektów związanych z AED do umożliwenia dodawania i aktualizacji POI w określonych branżach. Obecnie ze względu na ograniczone zasoby poza założeniami roboczymi nie są w tym kierunku prowadzone żadne działąnia.
